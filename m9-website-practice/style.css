@@ -58,6 +58,8 @@ header ul li a:hover {
     color: white;
     z-index: 2;
     text-align: center;
+	margin: 20px auto;
+    max-width: 800px;
 }
 
 .hero-text h1 {
